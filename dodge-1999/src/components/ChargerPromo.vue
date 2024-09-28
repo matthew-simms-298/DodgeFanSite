@@ -17,10 +17,8 @@ export default {
         <h1 id="charger-heading">The Future of Muscle.</h1>
         <p>Nobody does Muscle like a Dodge</p>
         <button id="charger-button">
-          <p>Explore the Charger R/T</p>
+          <p id="c-button">Explore the Charger R/T</p>
         </button>
     </div>
   </main>
 </template>
-
-<style></style>

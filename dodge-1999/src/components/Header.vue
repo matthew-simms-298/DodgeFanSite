@@ -20,7 +20,7 @@ export default {
       </div>
       <a id="header-tag"> Build and Price </a>
       <a id="header-tag"> The New Charger </a>
-      <a href="" id="header-tag"> Check out my Offical Website! </a>
+      <a target="_blank" href="https://matthew-simms-resume.vercel.app" id="header-tag"> Check out my Offical Website! </a>
     </div>
     <p id="dislaimer">
       Disclaimer: This website is not the official Dodge website, this is a project to showcase my
